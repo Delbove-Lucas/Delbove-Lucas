@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I'm learning development. It's challenging, but I'm making progress every day.<br>🤝 I gladly accept advice from everyone on web and mobile development, as I'm always looking to improve.<br>⚡ D&D Enjoyer
+🌱 I'm learning development. It's challenging, but I'm making progress every day.<br>🤝 I gladly accept advice from everyone on web and mobile development, as I'm always looking to improve.<br>⚡ D&D Enjoyer.
 
 
 # 💻 Tech Stack:
